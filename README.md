@@ -1,5 +1,6 @@
 ## Code repository for the courses SCC0251 / SCC5830 *Image Processing*
 ### Moacir A. Ponti, 2020-1
+### [video lecture][https://www.youtube.com/channel/UC2qdefeI8VWXCXzE5V-UA8A]
 
 #### Software Installation (using command line)
 install virtualenvwrapper to manage virtual environments
